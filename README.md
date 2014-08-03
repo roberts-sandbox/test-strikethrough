@@ -1,3 +1,4 @@
 test-strikethrough
 ==================
-~hello world~
+
+~~hello~~
